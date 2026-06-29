@@ -19,6 +19,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0725-split-linked-list-in-parts) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
