@@ -30,6 +30,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
