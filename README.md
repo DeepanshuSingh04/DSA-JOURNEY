@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
+| [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -72,5 +75,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
