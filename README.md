@@ -40,6 +40,7 @@
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -79,5 +80,14 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
