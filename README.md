@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -112,4 +116,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
