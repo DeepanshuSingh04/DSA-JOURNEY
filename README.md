@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 ## Matrix
 |  |
 | ------- |
