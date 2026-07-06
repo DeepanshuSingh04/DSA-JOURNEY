@@ -46,6 +46,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -124,6 +126,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
