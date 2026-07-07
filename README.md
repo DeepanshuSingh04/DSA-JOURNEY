@@ -46,6 +46,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -149,10 +151,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
