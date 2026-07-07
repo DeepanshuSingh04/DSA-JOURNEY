@@ -74,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 | [0225-implement-stack-using-queues](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
