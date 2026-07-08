@@ -42,3 +42,32 @@ class Solution {
         return prev;
     }
 }
+
+
+// class Solution {
+//     public ListNode doubleIt(ListNode head) {
+//         Stack<Integer> st = new Stack<>();
+//         ListNode temp = head;
+//         // Push all digits
+//         while (temp != null) {
+//             st.push(temp.val);
+//             temp = temp.next;
+//         }
+//         int carry = 0;
+//         ListNode ans = null;
+//         while (!st.isEmpty()) {
+//             int newVal = st.pop() * 2 + carry;
+//             carry = newVal / 10;
+//             ListNode node = new ListNode(newVal % 10);
+//             node.next = ans;
+//             ans = node;
+//         }
+
+//         if (carry > 0) {
+//             ListNode node = new ListNode(carry);
+//             node.next = ans;
+//             ans = node;
+//         }
+//         return ans;
+//     }
+// }
