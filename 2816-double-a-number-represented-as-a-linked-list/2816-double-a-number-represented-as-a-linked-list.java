@@ -44,6 +44,8 @@ class Solution {
 }
 
 
+// stack approaach
+
 // class Solution {
 //     public ListNode doubleIt(ListNode head) {
 //         Stack<Integer> st = new Stack<>();
