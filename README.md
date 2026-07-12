@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
@@ -198,5 +199,6 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
