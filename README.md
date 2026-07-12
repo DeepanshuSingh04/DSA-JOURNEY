@@ -15,6 +15,7 @@
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
@@ -197,4 +198,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
