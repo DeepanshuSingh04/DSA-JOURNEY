@@ -9,6 +9,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -201,4 +203,12 @@
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
