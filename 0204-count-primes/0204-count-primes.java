@@ -1,7 +1,5 @@
 class Solution {
     public int countPrimes(int n) {
-        if(n<=2) return 0;
-
         int count = 0;
         int[] s = seive(n);
         for(int i=1; i<n; i++){
@@ -10,7 +8,7 @@ class Solution {
         return count;
     }   
 
-    public int[] seive(int n){
+    public int[] seive(int n){//TC=O(n*log(logn))
         int[] arr = new int[n+1];
         Arrays.fill(arr,1);
 
