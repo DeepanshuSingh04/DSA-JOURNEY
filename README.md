@@ -20,6 +20,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +213,7 @@
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,6 +222,15 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
