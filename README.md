@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
