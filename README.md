@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -152,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
