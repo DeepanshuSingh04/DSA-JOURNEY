@@ -20,6 +20,7 @@
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
+| [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
 | ------- |
