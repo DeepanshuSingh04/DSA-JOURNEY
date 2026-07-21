@@ -130,6 +130,7 @@
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
