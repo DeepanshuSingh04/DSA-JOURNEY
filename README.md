@@ -118,6 +118,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -128,6 +129,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +223,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
