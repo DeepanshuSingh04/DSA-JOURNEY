@@ -26,6 +26,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
