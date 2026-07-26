@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
