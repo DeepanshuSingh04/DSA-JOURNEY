@@ -34,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
