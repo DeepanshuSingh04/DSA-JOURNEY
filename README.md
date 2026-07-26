@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
@@ -58,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -183,6 +185,7 @@
 | [0075-sort-colors](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
