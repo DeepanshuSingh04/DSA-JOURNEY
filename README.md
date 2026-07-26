@@ -27,6 +27,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -63,6 +65,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
@@ -281,6 +284,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -291,6 +295,7 @@
 ## Counting
 |  |
 | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
