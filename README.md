@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
@@ -222,6 +223,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
