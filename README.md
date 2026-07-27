@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
+| [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
+| [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
+| [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
@@ -238,6 +241,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 ## Tree
 |  |
 | ------- |
