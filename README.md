@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
@@ -240,6 +241,7 @@
 | [0191-number-of-1-bits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 ## Tree
