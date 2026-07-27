@@ -64,6 +64,7 @@
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -232,6 +234,7 @@
 | [0191-number-of-1-bits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
