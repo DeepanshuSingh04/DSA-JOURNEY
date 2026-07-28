@@ -164,6 +164,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
