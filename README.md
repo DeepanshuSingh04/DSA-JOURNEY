@@ -71,6 +71,7 @@
 | [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [1017-convert-to-base-2](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1017-convert-to-base-2) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
