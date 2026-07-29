@@ -27,6 +27,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
@@ -234,6 +235,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
