@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
+| [0875-koko-eating-bananas](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0875-koko-eating-bananas](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
