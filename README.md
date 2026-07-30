@@ -81,6 +81,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
@@ -132,6 +133,7 @@
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0257-binary-tree-paths](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
