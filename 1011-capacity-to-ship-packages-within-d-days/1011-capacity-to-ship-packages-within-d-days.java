@@ -6,7 +6,7 @@ class Solution {
             sum += ele;
         }
         int lo = max, hi = sum, ans = -1;
-        while(lo <= hi){
+        while(lo <= hi){  //O(n*log(sum-max))
             int mid = lo + (hi-lo)/2;
             if(days(mid,arr) <= d){
                 hi = mid-1;
@@ -21,13 +21,15 @@ class Solution {
         int days = 0;
         int c = capacity;
         for(int ele : arr){
-            if(c >= ele) c-=ele ;
+            if(c >= ele) {
+                c = c-ele; // same day hi load hora
+            }
             else{
-                days++;
+                days++; // purana din band naya din shurur
                 c = capacity - ele;
             }
         }
-        days++;
+        days++;  //last wala open din bhi count kra hain
         return days;
     }
 }
