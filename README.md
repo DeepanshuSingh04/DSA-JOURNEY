@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -79,6 +80,7 @@
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1017-convert-to-base-2) |
 | [1486-xor-operation-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -149,6 +151,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -376,4 +379,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
