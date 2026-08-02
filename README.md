@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
@@ -317,6 +318,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
