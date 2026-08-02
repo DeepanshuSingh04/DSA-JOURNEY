@@ -18,6 +18,7 @@
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
+| [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -75,6 +76,7 @@
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1017-convert-to-base-2](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1017-convert-to-base-2) |
 | [1486-xor-operation-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1486-xor-operation-in-an-array) |
@@ -116,6 +118,7 @@
 | [0002-add-two-numbers](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -144,6 +147,7 @@
 | [0085-maximal-rectangle](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,4 +370,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
