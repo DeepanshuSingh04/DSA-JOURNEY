@@ -37,6 +37,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1480-running-sum-of-1d-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -230,6 +231,7 @@
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
@@ -262,6 +264,7 @@
 | [0875-koko-eating-bananas](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
