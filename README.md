@@ -16,6 +16,7 @@
 | [0137-single-number-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
@@ -321,6 +323,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
