@@ -1,8 +1,10 @@
 class Solution {
     public int minSpeedOnTime(int[] dist, double hour) {
+        
+// handling if its impossible to reach office        
         if(hour <= dist.length-1)
         return -1;
-        
+
         int max = Integer.MIN_VALUE;
         for(int ele : dist){
             max = Math.max(max,ele);
