@@ -3,13 +3,15 @@ class Solution {
         if(m*k > bloomDay.length)
         return -1;
 
+        int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
         for(int ele : bloomDay){
             max = Math.max(max,ele);
+            min = Math.min(min,ele);
         }
 
-        int lo = 1, hi = max, ans = -1;
+        int lo = min, hi = max, ans = -1;
 
         while(lo <= hi){       
             int mid = lo + (hi-lo)/2;
