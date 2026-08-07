@@ -10,9 +10,10 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head.next == null){
-            return null;
-        }
+        //edge case
+        if (head.next == null) return null;
+
+        //middle find kro
         ListNode slow = head;
         ListNode fast = head;
         while(fast != null && fast.next != null){
@@ -20,7 +21,7 @@ class Solution {
             fast = fast.next.next;
         }
         ListNode temp = head;
-        while(temp.next != slow){
+        while( temp.next != slow){
             temp = temp.next;
         }
         temp.next = slow.next;
