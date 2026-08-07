@@ -75,6 +75,7 @@
 | [0445-add-two-numbers-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -141,6 +142,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/0922-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepanshuSingh04/DSA-JOURNEY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
